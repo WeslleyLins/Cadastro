@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="idade">Idade</string>
+    <string name="content_description_mediadd" />
+    <string name="secondary_text" />
+    <string name="supporting_text" />
+    <string name="action_1" />
+    <string name="action_2" />
+</resources>
